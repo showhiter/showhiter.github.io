@@ -29,4 +29,8 @@ Um ataque nazista futurisco com naves,inimigos e cometas.
 
 ### the journey
 
+[![](bux.jpeg)](https://amanda13.github.io/TheJourney/)
+
+Uma buxudinha quer ter uma gravidez saudavel para assim ter sua linda bebe.
+
 
