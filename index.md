@@ -1,10 +1,6 @@
-<IDOCTYPE html>
+---
+layout: default
+---
 
-<html>
-<body>
+# Julia Elizabeth 
 
-<h1>hello world</h1>
-<p>Minha primeira pagina da internet.</p>
-
-</body>
-</html>
