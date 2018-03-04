@@ -17,4 +17,4 @@ Como orientador o professor Marcelo barbosa
 
 ### attack on Demon
 
-[!(attck.jpg)](https://samiakarima.github.io/AttackonDemon/)
+[!(attck.jpeg)](https://samiakarima.github.io/AttackonDemon/)
