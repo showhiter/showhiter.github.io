@@ -26,3 +26,7 @@ Nesse belo jogo temos que vencer um demonio e enfrentar suas armas.
 [![](alien.jpeg)](https://joaothiago06.github.io/Alienzistas/)
 
 Um ataque nazista futurisco com naves,inimigos e cometas.
+
+### the journey
+
+
