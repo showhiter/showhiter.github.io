@@ -18,3 +18,8 @@ Como orientador o professor Marcelo barbosa
 ### attack on Demon
 
 [![](attck.jpeg)](https://samiakarima.github.io/AttackonDemon/)
+
+Nesse belo jogo temos que vencer um demonio e enfrentar suas armas.
+
+### alienzista 
+
