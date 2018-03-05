@@ -33,4 +33,8 @@ Um ataque nazista futurisco com naves,inimigos e cometas.
 
 Uma buxudinha quer ter uma gravidez saudavel para assim ter sua linda bebe.
 
+### influence map
+
+[![](
+
 
