@@ -35,6 +35,7 @@ Uma buxudinha quer ter uma gravidez saudavel para assim ter sua linda bebe.
 
 ### influence map
 
-[![](
+[![](trabalho.jpg)
+
 
 
